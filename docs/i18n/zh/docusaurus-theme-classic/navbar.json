@@ -23,6 +23,10 @@
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
   },
+  "item.label.RoadMap": {
+    "message": "RoadMap",
+    "description": "Navbar item with label GitHub"
+  },
   "item.label.Next": {
     "message": "Next",
     "description": "Navbar item with label Next"
@@ -66,5 +70,9 @@
   "item.label.FAQ": {
     "message": "FAQ",
     "description": "Navbar item with label FAQ"
+  },
+  "item.label.Roadmap": {
+    "message": "Roadmap",
+    "description": "Navbar item with label Roadmap"
   }
 }
